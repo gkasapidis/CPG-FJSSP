@@ -1,2 +1,2 @@
-# CPC-FJSSP
-Benchmarks for the Flexible JobShop Scheduling Problem with Complex Precedence Constraints
+# CPG-FJSSP
+Benchmarks for the Flexible JobShop Scheduling Problem with Complex Precedence Graphs
